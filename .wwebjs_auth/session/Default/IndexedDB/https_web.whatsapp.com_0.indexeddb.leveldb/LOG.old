@@ -1,0 +1,4 @@
+2025/05/12-14:04:05.333 2e00 Reusing MANIFEST C:\Users\Administrator\Documents\BOT WA\wabot-main\wabot-main\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/12-14:04:05.334 2e00 Recovering log #196
+2025/05/12-14:04:05.337 2e00 Reusing old log C:\Users\Administrator\Documents\BOT WA\wabot-main\wabot-main\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000196.log 
+2025/05/12-14:04:10.621 ab4 Manual compaction at level-0 from '\x005\x00\x00\x00' @ 72057594037927935 : 1 .. '\x006\x00\x00\x00' @ 0 : 0; will stop at (end)

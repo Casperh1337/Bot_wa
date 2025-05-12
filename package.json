@@ -1,0 +1,14 @@
+{
+  "name": "wa-cs-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Customer Service Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0",
+    "mongoose": "^7.5.0"
+  }
+} 

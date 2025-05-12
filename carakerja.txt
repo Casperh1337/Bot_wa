@@ -1,0 +1,27 @@
+Saya telah menambahkan sistem status order dengan 3 status:
+Pending (⏳) - Saat order baru dibuat
+Proses (🔄) - Saat admin memproses order
+Berhasil (✅) - Saat admin menyelesaikan order
+Cara kerjanya:
+User melakukan order:
+Ketik "pesan" setelah memilih produk
+Sistem akan membuat order dengan status "Pending"
+User akan mendapat Order ID
+Admin memproses order:
+Ketik "proses [Order ID]"
+Status order berubah menjadi "Proses"
+Admin menyelesaikan order:
+Ketik "selesai [Order ID]"
+Status order berubah menjadi "Berhasil"
+User cek status:
+Ketik "status [Order ID]"
+Akan melihat status order saat ini
+Contoh penggunaan:
+User: "pesan"
+Mendapat pesan dengan status "Pending" dan Order ID
+Admin: "proses ORD1234567890"
+Status berubah menjadi "Proses"
+Admin: "selesai ORD1234567890"
+Status berubah menjadi "Berhasil"
+User: "status ORD1234567890"
+Melihat status order saat ini
